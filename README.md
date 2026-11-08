@@ -1,1 +1,1 @@
-ML project (k-means) (iris - blobs)
+ML project (k-means) (iris - blobs - digits)
